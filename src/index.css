@@ -1,0 +1,42 @@
+body {
+    /* background-image: url("https://cutewallpaper.org/21x/fdv38lxtn/Archeage-Wallpapers-Backgrounds.jpg"); */
+
+    background: rgb(154, 5, 5);
+    background: linear-gradient(0deg, rgba(154, 5, 5, 1) 0%, rgba(13, 3, 0, 1) 100%);
+    width: 100%;
+    /* object-fit: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    box-sizing: border-box;
+}
+
+header {
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+img {
+    width: 15vw;
+    height: 15vh;
+    margin-top: 18px;
+}
+
+input {
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+
+}
+
+button {
+    margin: 15px;
+    background-color: red;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+}
